@@ -19,7 +19,7 @@ I'm also on twitter at [@adotcoop](https://twitter.com/adotcoop "@adotcoop") so 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adotcoop&layout=compact&hide=java,html,ruby,css&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/adotcoop/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://twitter.com/gregor_suttie"><img src="https://img.shields.io/twitter/follow/adotcoop?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://twitter.com/adotcoop"><img src="https://img.shields.io/twitter/follow/adotcoop?label=Twitter&style=social" alt="Twitter"></a>
 
 
 
