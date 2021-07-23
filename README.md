@@ -8,6 +8,10 @@
 ### Blog
 I sometimes blog, here are my latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Mitigate the impact of malware for free with Microsoft Defender attack surface reduction rules](/2021/05/26/asr-defender.html)
+- [SQL Server Express LocalDB](/2021/05/11/sql-localdb.html)
+- [Solidworks - disabling add-ins via the registry](/2020/11/02/solidworks-add-ins.html)
+- [WVD Scaling Tool Daylight Savings Time Issue](/2020/10/26/wvd-scaling-dst-issue.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Twitter
