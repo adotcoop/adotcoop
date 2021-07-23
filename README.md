@@ -11,7 +11,7 @@ I sometimes blog, here are my latest posts
 <!-- BLOG-POST-LIST:END -->
 
 ### Twitter
-I'm also on twitter at [@adotcoop](https://twitter.com/adotcoop "@adotcoop") so if you want to ask me things that is probably the best option.
+I'm also on twitter at [@adotcoop](https://twitter.com/adotcoop "@adotcoop").
 
 ### Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adotcoop&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
