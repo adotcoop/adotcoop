@@ -1,6 +1,5 @@
 # About
 
-- End user computing manager [@UniStrathclyde](https://www.strath.ac.uk)
 - I share my nice tidy code here
 - I share my messy code on [my gists](https://gist.github.com/adotcoop) page
 - I also do infosec things
